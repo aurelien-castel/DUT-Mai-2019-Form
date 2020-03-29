@@ -26,6 +26,6 @@ Le créateur d’un formulaire peut partager un lien vers les questions du formu
 |:--:| 
 | Exemple de formulaire public |
 
-| ![https://github.com/aurelien-castel/DUT-Mai-2019-Form/blob/master/images/UseCaseDiagram.svg?raw=true](https://github.com/aurelien-castel/DUT-Mai-2019-Form/blob/master/images/UseCaseDiagram.svg?raw=true) | 
+| ![https://github.com/aurelien-castel/DUT-Mai-2019-Form/blob/master/images/UseCaseDiagram.svg?sanitize=true"](https://github.com/aurelien-castel/DUT-Mai-2019-Form/blob/master/images/UseCaseDiagram.svg?sanitize=true") | 
 |:--:| 
 | Diagramme de cas d'usage |
